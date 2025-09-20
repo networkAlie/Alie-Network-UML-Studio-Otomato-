@@ -1,0 +1,5 @@
+{
+  "name": "Otomato UML Studio",
+  "description": "A live-rendering UML diagram studio for the Otomato Web3 automation platform. Visualize system architecture, user flows, and strategic roadmaps.",
+  "requestFramePermissions": []
+}
